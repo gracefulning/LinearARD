@@ -54,11 +54,12 @@ bash ./scripts/train_linearard_mistral.sh
 ## Citation
 
 ```bibtex
-@article{TODO,
-  title={TODO: Paper Title},
-  author={TODO: Authors},
-  journal={TODO: Venue/Archive},
-  year={TODO},
-  url={TODO}
+@article{yang2026linearard,
+  title={LinearARD: Linear-Memory Attention Distillation for RoPE Restoration},
+  author={Ning Yang and Hengyu Zhong and Wentao Wang and Baoliang Tian and Haijun Zhang and Jun Wang},
+  journal={arXiv preprint arXiv:2604.00004},
+  year={2026},
+  doi={10.48550/arXiv.2604.00004},
+  url={https://arxiv.org/abs/2604.00004}
 }
 ```
